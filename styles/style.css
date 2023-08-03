@@ -54,7 +54,7 @@
     max-width: 1440px;
     margin: 0 auto;
     height: 757px;
-    background-image: url(/images/cover.jpg);
+    background-image: url(../images/cover.jpg);
 }
 
 /* .overlay {
