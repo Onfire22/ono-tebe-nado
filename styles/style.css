@@ -14,7 +14,7 @@
 }
 
 .header__content {
-    padding: 92px 0;
+    padding: 92px 0 92px 0;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -251,7 +251,7 @@
   height: 240px;
   padding: 63px 46px;
   background-color: #000;
-  border-radius: 100%;  
+  border-radius: 100%;
   justify-self: center;
 }
 .about__column-text {
